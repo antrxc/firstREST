@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.17.16",
     "@types/mongoose": "^5.11.97",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
     "nodemon": "^3.1.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
